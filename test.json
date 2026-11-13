@@ -10,7 +10,7 @@
     "rarity": 5,
     "directory": "Heart",
     "image": "Heart/preview.png",
-    "pmx": "___.pmx",
+    "pmx": "model.pmx",
     "base": "https://carlutic.github.io/test/"
   }
 ]
