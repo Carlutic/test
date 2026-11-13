@@ -52,7 +52,7 @@
   "rarity": 5,
   "directory": "chars/KlukaiMaid",
   "image": "chars/KlukaiMaid/preview.png",
-  "pmx": "GirlsFrontline ClukaySSR0105.pmx",
+  "pmx": "GirlsFrontline ClukaySSR0105_v2.pmx",
   "base": "https://carlutic.github.io/test/"
  }
 ]
