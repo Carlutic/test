@@ -1,16 +1,44 @@
 [
-  {
-    "id": 150001,
-    "name": "Kokoro",
-    "displayName": "心",
-    "weaponType": "",
-    "element": "Test",
-    "gender": "Female",
-    "region": "",
-    "rarity": 5,
-    "directory": "Heart",
-    "image": "Heart/preview.png",
-    "pmx": "model.pmx",
-    "base": "https://carlutic.github.io/test/"
-  }
+ {
+  "id": 150001,
+  "name": "Kokoro",
+  "displayName": "心",
+  "weaponType": "",
+  "element": "Test",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "Heart",
+  "image": "Heart/preview.png",
+  "pmx": "model.pmx",
+  "base": "https://carlutic.github.io/test/"
+ },
+ {
+  "id": 150002,
+  "name": "TololoOfficial",
+  "displayName": "托洛洛（官方加工版）",
+  "weaponType": "",
+  "element": "Test",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/TololoOfficial",
+  "image": "chars/TololoOfficial/preview.png",
+  "pmx": "GirlsFrontline TololoDefault.pmx",
+  "base": "https://carlutic.github.io/test/"
+ },
+ {
+  "id": 150003,
+  "name": "MacqiatoOfficial",
+  "displayName": "玛绮朵（官方加工版）",
+  "weaponType": "",
+  "element": "Test",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/MacqiatoOfficial",
+  "image": "chars/MacqiatoOfficial/preview.png",
+  "pmx": "GirlsFrontline MacqiatoDefault.pmx",
+  "base": "https://carlutic.github.io/test/"
+ }
 ]
