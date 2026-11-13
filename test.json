@@ -1,0 +1,16 @@
+[
+  {
+    "id": 150001,
+    "name": "Kokoro",
+    "displayName": "心",
+    "weaponType": "",
+    "element": "Test",
+    "gender": "Female",
+    "region": "",
+    "rarity": 5,
+    "directory": "Heart",
+    "image": "Heart/preview.png",
+    "pmx": "___.pmx",
+    "base": "https://carlutic.github.io/test/"
+  }
+]
