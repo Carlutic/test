@@ -54,5 +54,19 @@
   "image": "chars/KlukaiMaid/preview.png",
   "pmx": "GirlsFrontline ClukaySSR0105_v2.pmx",
   "base": "https://carlutic.github.io/test/"
+ },
+ {
+  "id": 150005,
+  "name": "Cecilia",
+  "displayName": "希丽雅（原皮）",
+  "weaponType": "",
+  "element": "Test",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Cecilia",
+  "image": "chars/Cecilia/preview.png",
+  "pmx": "GirlsFrontline CeciliaSSR01.pmx",
+  "base": "https://carlutic.github.io/test/"
  }
 ]

@@ -1,0 +1,39 @@
+{
+  "body_d.png": {
+    "normal": "maps/body_n.png",
+    "rmo": "maps/body_orm.png"
+  },
+  "c_CeciliaSSR01_slg_cloth1_da.png": {
+    "normal": "maps/c_CeciliaSSR01_slg_cloth1_n.png",
+    "rmo": "maps/c_CeciliaSSR01_slg_cloth1_orm.png"
+  },
+  "c_CeciliaSSR01_slg_cloth2_da.png": {
+    "normal": "maps/c_CeciliaSSR01_slg_cloth2_n.png",
+    "rmo": "maps/c_CeciliaSSR01_slg_cloth2_orm.png"
+  },
+  "c_CeciliaSSR01_slg_cloth3_da.png": {
+    "normal": "maps/c_CeciliaSSR01_slg_cloth3_n.png",
+    "rmo": "maps/c_CeciliaSSR01_slg_cloth3_orm.png"
+  },
+  "c_CeciliaSSR01_slg_cloth4_d.png": {
+    "normal": "maps/c_CeciliaSSR01_slg_cloth4_n.png",
+    "rmo": "maps/c_CeciliaSSR01_slg_cloth4_orm.png"
+  },
+  "c_CeciliaSSR01_slg_cloth_d.png": {
+    "normal": "maps/c_CeciliaSSR01_slg_cloth1_n.png",
+    "rmo": "maps/c_CeciliaSSR01_slg_cloth1_orm.png"
+  },
+  "c_CeciliaSSR01_slg_trans1_da.png": {
+    "normal": "maps/c_CeciliaSSR01_slg_trans1_n.png",
+    "rmo": "maps/c_CeciliaSSR01_slg_trans1_orm.png"
+  },
+  "c_CeciliaSSR01_slg_trans2_da.png": {
+    "normal": "maps/c_CeciliaSSR01_slg_trans2_n.png",
+    "rmo": "maps/c_CeciliaSSR01_slg_trans2_orm.png"
+  },
+  "c_CeciliaSSR01_slg_trans_da.png": {
+    "normal": "maps/c_CeciliaSSR01_slg_trans1_n.png",
+    "rmo": "maps/c_CeciliaSSR01_slg_trans1_orm.png"
+  },
+  "unlitFace": true
+}
