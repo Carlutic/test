@@ -42,5 +42,6 @@
   "c_ClukaySSR0105_slg_zhijia_d.png": {
     "normal": "maps/c_ClukaySSR0105_slg_zhijia_n.png",
     "rmo": "maps/c_clukayssr0105_slg_zhijia_orm.png"
-  }
+  },
+  "unlitFace": true
 }

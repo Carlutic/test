@@ -10,5 +10,6 @@
   "c_tololossr01_slg_cloth2.png": {
     "normal": "maps/c_TololoSSR01_slg_cloth2_n_std.png",
     "rmo": "maps/c_TololoSSR01_slg_cloth2_orm.png"
-  }
+  },
+  "unlitFace": true
 }

@@ -10,5 +10,6 @@
   "c_MacqiatoSSR01_slg_qiang_d.png": {
     "normal": "maps/c_MacqiatoSSR01_slg_qiang_n.png",
     "rmo": "maps/c_MacqiatoSSR01_slg_qiang_orm.png"
-  }
+  },
+  "unlitFace": true
 }
