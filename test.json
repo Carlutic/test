@@ -40,5 +40,19 @@
   "image": "chars/MacqiatoOfficial/preview.png",
   "pmx": "GirlsFrontline MacqiatoDefault.pmx",
   "base": "https://carlutic.github.io/test/"
+ },
+ {
+  "id": 150004,
+  "name": "KlukaiMaid",
+  "displayName": "可露凯（女仆皮）",
+  "weaponType": "",
+  "element": "Test",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/KlukaiMaid",
+  "image": "chars/KlukaiMaid/preview.png",
+  "pmx": "GirlsFrontline ClukaySSR0105.pmx",
+  "base": "https://carlutic.github.io/test/"
  }
 ]

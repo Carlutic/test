@@ -1,0 +1,46 @@
+{
+  "body_d.png": {
+    "normal": "maps/body_n.png",
+    "rmo": "maps/body_orm.png"
+  },
+  "c_ClukaySSR0105_slg_P1_body1_da.png": {
+    "normal": "maps/c_ClukaySSR0105_slg_P1_body1_n.png",
+    "rmo": "maps/c_clukayssr0105_slg_p1_body1_orm.png"
+  },
+  "c_ClukaySSR0105_slg_P1_body2_da.png": {
+    "normal": "maps/c_ClukaySSR0105_slg_P1_body2_n.png",
+    "rmo": "maps/c_clukayssr0105_slg_p1_body2_orm.png"
+  },
+  "c_ClukaySSR0105_slg_P1_cloth1_d.png": {
+    "normal": "maps/c_ClukaySSR0105_slg_P1_cloth1_n.png",
+    "rmo": "maps/c_clukayssr0105_slg_p1_cloth1_orm.png"
+  },
+  "c_ClukaySSR0105_slg_P1_hip1_d.png": {
+    "normal": "maps/c_ClukaySSR0105_slg_P1_hip1_n.png",
+    "rmo": "maps/c_clukayssr0105_slg_p1_hip1_orm.png"
+  },
+  "c_ClukaySSR0105_slg_P1_hip2_d.png": {
+    "normal": "maps/c_ClukaySSR0105_slg_P1_hip2_n.png",
+    "rmo": "maps/c_clukayssr0105_slg_p1_hip2_orm.png"
+  },
+  "c_ClukaySSR0105_slg_P1_hip3_d.png": {
+    "normal": "maps/c_ClukaySSR0105_slg_P1_hip3_n.png",
+    "rmo": "maps/c_clukayssr0105_slg_p1_hip3_orm.png"
+  },
+  "c_ClukaySSR0105_slg_P1_hip4_d.png": {
+    "normal": "maps/c_ClukaySSR0105_slg_P1_hip4_n.png",
+    "rmo": "maps/c_clukayssr0105_slg_p1_hip4_orm.png"
+  },
+  "c_ClukaySSR0105_slg_cloth1_d.png": {
+    "normal": "maps/c_ClukaySSR0105_slg_cloth1_n.png",
+    "rmo": "maps/c_clukayssr0105_slg_cloth1_orm.png"
+  },
+  "c_ClukaySSR0105_slg_cloth2_da.png": {
+    "normal": "maps/c_ClukaySSR0105_slg_cloth2_n.png",
+    "rmo": "maps/c_clukayssr0105_slg_cloth2_orm.png"
+  },
+  "c_ClukaySSR0105_slg_zhijia_d.png": {
+    "normal": "maps/c_ClukaySSR0105_slg_zhijia_n.png",
+    "rmo": "maps/c_clukayssr0105_slg_zhijia_orm.png"
+  }
+}
