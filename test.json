@@ -68,5 +68,19 @@
   "image": "chars/Cecilia/preview.png",
   "pmx": "GirlsFrontline CeciliaSSR01.pmx",
   "base": "https://carlutic.github.io/test/"
+ },
+ {
+  "id": 150006,
+  "name": "Chenxing",
+  "displayName": "辰星-琼弦 柔倚身畔",
+  "weaponType": "",
+  "element": "Test",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Chenxing",
+  "image": "chars/Chenxing/preview.png",
+  "pmx": "辰星-琼弦 柔倚身畔a1.0.pmx",
+  "base": "https://carlutic.github.io/test/"
  }
 ]
