@@ -8,5 +8,6 @@
   },
   "头发.png": {
     "normal": "maps/girl014b_hair01_n.png"
-  }
+  },
+  "stockingMode": "alpha"
 }
