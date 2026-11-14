@@ -108,7 +108,7 @@
   "rarity": 5,
   "directory": "chars/QiuhuaOfficial",
   "image": "chars/QiuhuaOfficial/preview.png",
-  "pmx": "model.pmx",
+  "pmx": "model_v2.pmx",
   "base": "https://carlutic.github.io/test/"
  }
 ]
