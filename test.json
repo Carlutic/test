@@ -124,5 +124,19 @@
   "image": "chars/BubuOfficial/preview.png",
   "pmx": "model.pmx",
   "base": "https://carlutic.github.io/test/"
+ },
+ {
+  "id": 150010,
+  "name": "CheetaFakeSkin",
+  "displayName": "奇塔（fakeskin 对比版）",
+  "weaponType": "",
+  "element": "Test",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/CheetaFakeSkin",
+  "image": "chars/CheetaFakeSkin/preview.png",
+  "pmx": "model.pmx",
+  "base": "https://carlutic.github.io/test/"
  }
 ]
