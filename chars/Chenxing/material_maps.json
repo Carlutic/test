@@ -1,3 +1,12 @@
 {
-  "defaultPreset": "snowbreak"
+  "defaultPreset": "snowbreak",
+  "皮肤.png": {
+    "normal": "maps/girl014b_04_body00_n.png"
+  },
+  "衣服.png": {
+    "normal": "maps/girl014b_04_body01_n.png"
+  },
+  "头发.png": {
+    "normal": "maps/girl014b_hair01_n.png"
+  }
 }
