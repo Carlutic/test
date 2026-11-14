@@ -8,14 +8,5 @@
   "头发.png": {
     "normal": "maps/girl020_03_hair01_n.png"
   },
-  "defaultPreset": "lobby",
-  "stockingMode": "alpha",
-  "stockingSkinTexture": "bubu_socks_skin_d.png",
-  "materialOverrides": {
-    "丝袜": {
-      "diffuse": "bubu_socks_d.png",
-      "normal": "bubu_socks_n.png",
-      "normalLevel": 2.2
-    }
-  }
+  "defaultPreset": "lobby"
 }
