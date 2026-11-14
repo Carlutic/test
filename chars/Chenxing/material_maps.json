@@ -3,7 +3,6 @@
   "bakedTextures": {
     "皮肤.png": "baked/skin.png",
     "衣服.png": "baked/cloth.png",
-    "头发.png": "baked/hair.png",
-    "脸.png": "baked/face.png"
+    "头发.png": "baked/hair.png"
   }
 }
