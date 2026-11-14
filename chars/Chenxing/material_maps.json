@@ -1,13 +1,12 @@
 {
-  "defaultPreset": "normal",
-  "皮肤.png": {
-    "normal": "maps/girl014b_04_body00_n.png"
-  },
-  "衣服.png": {
-    "normal": "maps/girl014b_04_body01_n.png"
-  },
-  "头发.png": {
-    "normal": "maps/girl014b_hair01_n.png"
-  },
-  "stockingMode": "alpha"
+  "defaultPreset": "default",
+  "bakedTextures": {
+    "皮肤.png": "baked/skin.png",
+    "衣服.png": "baked/cloth.png",
+    "头发.png": "baked/hair.png",
+    "脸.png": "baked/face.png",
+    "眼睛.png": "baked/eye.png",
+    "眼睛1.png": "baked/eye.png",
+    "表情.png": "baked/expression.png"
+  }
 }
