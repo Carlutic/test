@@ -110,5 +110,19 @@
   "image": "chars/QiuhuaOfficial/preview.png",
   "pmx": "model_v2.pmx",
   "base": "https://carlutic.github.io/test/"
+ },
+ {
+  "id": 150009,
+  "name": "BubuOfficial",
+  "displayName": "卜卜（畅饮狂欢）",
+  "weaponType": "",
+  "element": "Test",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/BubuOfficial",
+  "image": "chars/BubuOfficial/preview.png",
+  "pmx": "model.pmx",
+  "base": "https://carlutic.github.io/test/"
  }
 ]

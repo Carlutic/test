@@ -1,0 +1,19 @@
+{
+  "皮肤.png": {
+    "normal": "maps/girl020_03_body00_n.png"
+  },
+  "衣服a.png": {
+    "normal": "maps/girl020_03_body01_n.png"
+  },
+  "头发.png": {
+    "normal": "maps/girl020_03_hair01_n.png"
+  },
+  "defaultPreset": "lobby",
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "bubu_socks_skin_d.png",
+  "materialOverrides": {
+    "丝袜": {
+      "diffuse": "bubu_socks_d.png"
+    }
+  }
+}
