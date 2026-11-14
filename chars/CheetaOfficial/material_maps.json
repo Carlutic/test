@@ -1,0 +1,16 @@
+{
+  "Textures\\c_CheetaSR01_slg_cloth01_d.png": {
+    "normal": "maps/c_CheetaSR01_slg_cloth01_n.png"
+  },
+  "Textures\\c_CheetaSR01_slg_cloth02_d.png": {
+    "normal": "maps/c_CheetaSR01_slg_cloth02_n.png"
+  },
+  "defaultPreset": "lobby",
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "Textures/c_CheetaSR01_slg_socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "Textures/c_CheetaSR01_slg_cloth02_socks_d.png"
+    }
+  }
+}

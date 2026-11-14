@@ -82,5 +82,19 @@
   "image": "chars/Chenxing/preview.png",
   "pmx": "model.pmx",
   "base": "https://carlutic.github.io/test/"
+ },
+ {
+  "id": 150007,
+  "name": "CheetaOfficial",
+  "displayName": "奇塔（官方加工版）",
+  "weaponType": "",
+  "element": "Test",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/CheetaOfficial",
+  "image": "chars/CheetaOfficial/preview.png",
+  "pmx": "model.pmx",
+  "base": "https://carlutic.github.io/test/"
  }
 ]
