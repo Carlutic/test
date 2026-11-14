@@ -13,7 +13,9 @@
   "stockingSkinTexture": "bubu_socks_skin_d.png",
   "materialOverrides": {
     "丝袜": {
-      "diffuse": "bubu_socks_d.png"
+      "diffuse": "bubu_socks_d.png",
+      "normal": "bubu_socks_n.png",
+      "normalLevel": 1.6
     }
   }
 }
