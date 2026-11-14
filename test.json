@@ -96,5 +96,19 @@
   "image": "chars/CheetaOfficial/preview.png",
   "pmx": "model.pmx",
   "base": "https://carlutic.github.io/test/"
+ },
+ {
+  "id": 150008,
+  "name": "QiuhuaOfficial",
+  "displayName": "秋桦（仁心仁术）",
+  "weaponType": "",
+  "element": "Test",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/QiuhuaOfficial",
+  "image": "chars/QiuhuaOfficial/preview.png",
+  "pmx": "model.pmx",
+  "base": "https://carlutic.github.io/test/"
  }
 ]
