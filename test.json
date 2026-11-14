@@ -80,7 +80,7 @@
   "rarity": 5,
   "directory": "chars/Chenxing",
   "image": "chars/Chenxing/preview.png",
-  "pmx": "辰星-琼弦 柔倚身畔a1.0.pmx",
+  "pmx": "model.pmx",
   "base": "https://carlutic.github.io/test/"
  }
 ]
